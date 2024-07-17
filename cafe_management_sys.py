@@ -1,3 +1,4 @@
+# Cafe Management System
 #define menu of restaurant
 menu = {
     'Pizza' : 50,
